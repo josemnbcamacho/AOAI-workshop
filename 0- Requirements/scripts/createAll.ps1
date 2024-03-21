@@ -1,3 +1,5 @@
+#!/usr/bin/env pwsh
+
 $SubscriptionId = ''
 $resourceGroupName = "openai-workshop"
 $location = "swedencentral"
